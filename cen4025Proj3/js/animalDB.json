@@ -1,0 +1,19 @@
+[
+{
+	"name": "Bozo",
+	"animalBreed": "monkey",
+	"age": 13
+},
+
+{
+	"name": "Silver",
+	"animalBreed": "zebra",
+	"age": 5
+},
+
+{
+	"name": "Jeff",
+	"animalBreed": "alligator",
+	"age": 46
+}
+]

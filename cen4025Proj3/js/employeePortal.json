@@ -1,0 +1,23 @@
+{
+	"name": "Mary",
+	"role": "employee",
+	"username": "maryJ",
+	"password": "zoo321",
+	"contactNumber": "3215556432"
+}
+
+{
+	"name": "Linda",
+	"role": "management",
+	"username": "LindaJ",
+	"password": "zoo444",
+	"contactNumber": "3215556432"
+}
+
+{
+	"name": "John",
+	"role": "employee",
+	"username": "JohnD",
+	"password": "zoo703",
+	"contactNumber": "3215556432"
+}

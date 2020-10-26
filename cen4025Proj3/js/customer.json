@@ -1,0 +1,20 @@
+[{
+	"name": "Frank",
+	"hasTicket": true,
+	"contactNumber": "3215558888",
+	"kids": "Jonny, Sally"
+},
+
+{
+	"name": "Jason",
+	"hasTicket": true,
+	"contactNumber": "3215557777",
+	"kids": "Billy"
+},
+
+{
+	"name": "Kati",
+	"hasTicket": true,
+	"contactNumber": "3215554444",
+	"kids": false
+}]
